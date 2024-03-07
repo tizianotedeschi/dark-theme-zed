@@ -1,0 +1,7 @@
+{
+  "name": "Dark Theme Zed",
+  "version": "1.0.0",
+  "authors": ["Tiziano Tedeschi <tiziano.tedeschi@outlook.it>"],
+  "description": "A dark theme for Zed code editor",
+  "repository": "https://github.com/tizianotedeschi/dark-theme-zed"
+}
